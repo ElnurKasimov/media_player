@@ -8,6 +8,7 @@ import javafx.scene.media.MediaView;
 import javafx.stage.Stage;
 
 
+
 public class MediaPlayerApp extends Application {
     private MediaPlayer mediaPlayer;
 
